@@ -51,6 +51,6 @@
 
 ### 报告 Bug
 
-当你在使用过程中遇到问题，请查阅 [疑难解答](troubleshooting.md) 或者在这里提问 [GitHub](https://github.com/Piplin/Piplin/issues)。如果问题还是不能解决，请加入我们的官方QQ群：656868。
+当你在使用过程中遇到问题，请查阅 [疑难解答](faq.md) 或者在这里提问 [GitHub](https://github.com/Piplin/Piplin/issues)。如果问题还是不能解决，请加入我们的官方QQ群：656868。
 
 [Piplin/Piplin]: https://github.com/Piplin/Piplin
