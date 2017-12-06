@@ -18,3 +18,14 @@ piplin-socketio                  RUNNING   pid 16604, uptime 23:14:00
 supervisor> 
 
 ```
+
+### 测试服务器连通状态，返回`Permission denied (publickey,password)`
+
+请将项目的公钥追加到服务器执行任务用户目录的$HOME/.ssh/authorized_keys文件中。注意：.ssh/ 目录的权限应该被设置为700, authorized_keys 文件的权限应该被设置为600。公钥内容格式如下：
+```
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDbeU5/HCoF52Kun+99w0AhHmMjglHqQHUS2y8XSL/lJxtx+cyiIkysdD/
+f2FFk6TqeWJAUHtoFQRgjFRiNciPM50qwD/bgZvzVvsAkbQgpNnGofAx89M592BHaaaWBVZOREg/F/scT9z4Xq7VF+JtrM/l0yPNrY/
+A0WzWf63nL1xmhpQU3XxEcIP74hNTAutONQJtyhxxxxxxedyrvA4e1XObnq8rHTBPIYQWC1azPEgJb/
+DhNxXsjEiTkasBKvPiBItnnOc/jQBBaur8KvB7R7kLeYn3QOgGUE5jGq3OkDgHRTgnY2C4dKCtqFajGelwSYJcF3QjwhT11 
+worker@piplin
+```
