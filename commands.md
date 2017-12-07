@@ -2,7 +2,7 @@
 
 ### 命令概念图
 
-![Screenshot](https://piplin.com/screenshots/commands.png)
+![Screenshot](http://piplin.com/screenshots/commands.png)
 
 ### 命令类型
 

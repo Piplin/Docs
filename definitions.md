@@ -3,7 +3,7 @@
 
 ### 原理示意图
 
-![Screenshot](https://piplin.com/img/principle.png?v1)
+![Screenshot](http://piplin.com/img/principle.png?v1)
 
 ### 名词解释
 
