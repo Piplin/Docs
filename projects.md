@@ -89,7 +89,9 @@ $ mkdir -p /var/www/piplin
 
 3、同样，这里也需要往这台服务器添加项目公钥，并创建项目路径
 
+```shell
 ssh root@192.168.10.10
+```
 
 ```shell
 $ mkdir -p /var/www/piplin
@@ -113,7 +115,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC7E0tQBis2bl18L5bl0HsY+HYK4aYnF8bOOY+TnK5+
 ![project20](http://piplin.com/screenshots/project20.png)
 
 5.3、更新缓存
-![project21](http://piplin.com/img/screenshots/project21.png)
+![project21](http://piplin.com/screenshots/project21.png)
 
 6、部署步骤全貌
 ![project22](http://piplin.com/screenshots/project22.png)
