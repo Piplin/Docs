@@ -74,7 +74,7 @@ $ mkdir -p /var/www/piplin
 构建成功，会有构建物产生(这里我们先不创建构建版本)
 ![project14](http://piplin.com/screenshots/project14.png?rnd=1)
 
-#### 三、进行部署设置：
+#### 三、设置部署计划
 
 1、添加部署环境：
 
